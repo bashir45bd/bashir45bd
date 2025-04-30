@@ -109,18 +109,6 @@
   </a>
 </p>
 
-<!-- Add this CSS for hover animation -->
-<style>
-  .icon {
-    transition: transform 0.3s ease;
-  }
-
-  .icon:hover {
-    transform: scale(1.2); /* zoom-in effect */
-  }
-</style>
-
-
 ## 📫 Connect with Me
 
 <p align="center">
