@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%7C+Java+%7C+Kotlin+%7C+Dart+Expert;Founder+of+SoftSphere;4%2B+Years+of+Experience" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%7C+Java+%7C+Kotlin+%7C+Dart+Expert;4%2B+Years+of+Experience" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
