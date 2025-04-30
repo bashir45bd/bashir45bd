@@ -57,6 +57,70 @@
 
 ---
 
+<h2 align="center">🛠️Other skills </h2>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" title="Android"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://laravel.com" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" title="Laravel"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" title="SQLite"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.json.org/json-en.html" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40" title="JSON"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://admob.google.com/home/" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg" alt="AdMob" width="40" height="40" title="AdMob"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/audiencenetwork/" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Audience Network" width="40" height="40" title="Meta Audience Network"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://restfulapi.net/" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="40" height="40" title="REST API"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://play.google.com/console/about/" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play Publisher" width="40" height="40" title="Google Play Console (Publisher)"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://appstoreconnect.apple.com/" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="App Store Publisher" width="40" height="40" title="Apple App Store Connect (Publisher)"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40" title="Adobe Photoshop"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.figma.com" target="_blank">
+    <img class="icon" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" title="Figma"/>
+  </a>
+</p>
+
+<!-- Add this CSS for hover animation -->
+<style>
+  .icon {
+    transition: transform 0.3s ease;
+  }
+
+  .icon:hover {
+    transform: scale(1.2); /* zoom-in effect */
+  }
+</style>
+
+
 ## 📫 Connect with Me
 
 <p align="center">
