@@ -29,6 +29,8 @@ I have successfully worked on **production-level apps**, university projects, an
 - **B.Sc. in Computer Science & Engineering (CSE)**  
   **Sylhet International University**, Bangladesh
 
+- **Diploma in Computer Science & Engineering**
+  **Habiganj polytechnical institute**,Bangladesh
 ---
 
 ## 💼 Experience & Expertise
