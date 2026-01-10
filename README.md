@@ -22,7 +22,7 @@ I have successfully worked on **production-level apps**, university projects, an
 
 ---
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding gif"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"> </p>
 
 ## 🎓 Education
 
