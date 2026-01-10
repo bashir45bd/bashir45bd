@@ -15,14 +15,14 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Mobile Application Developer** with over **4 years of experience** in building, deploying, and maintaining **high-quality Android and iOS applications**.  
+I am a **Mobile Application Developer** with over **2 years of experience** in building, deploying, and maintaining **high-quality Android and iOS applications**.  
 I specialize in **Flutter and native Android development**, with strong backend integration experience using **PHP, MySQL, Firebase, and REST APIs**.
 
 I have successfully worked on **production-level apps**, university projects, and commercial applications, focusing on **performance, clean architecture, and user-friendly design**.
 
 ---
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding gif"> </p>
 
 ## 🎓 Education
 
@@ -53,7 +53,10 @@ I have successfully worked on **production-level apps**, university projects, an
 - Kotlin  
 - PHP  
 - C, C++  
-- Python  
+- Python
+- XML
+- HTML
+- CSS
 
 ### 📱 Frameworks & Platforms
 - Flutter  
